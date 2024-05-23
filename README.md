@@ -23,8 +23,5 @@ You can install these modules manually, and copy RDAnalyzer in the directory tha
 
 ```pip install RDAnalyzer```
 
-## Getting started
-See `Tutorial.ipynb` for detailed usage about RDAnalyzer 
-
 ## References
 - {}
