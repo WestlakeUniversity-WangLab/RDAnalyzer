@@ -17,7 +17,7 @@ RDAnalyzer needs `scipy`, `numpy`, `matplotlib`, `ase` and `networkx`.
 
 You can install these modules manually, and copy RDAnalyzer in the directory that same with trajectory files.
 
-**Or**
+**or**
 
 **Install with pip**
 
