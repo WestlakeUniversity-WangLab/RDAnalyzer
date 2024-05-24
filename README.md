@@ -15,9 +15,7 @@ RDAnalyzer is developed on Ubuntu with python 3.11
 
 RDAnalyzer needs `scipy`, `numpy`, `matplotlib`, `ase` and `networkx`.
 
-You can install these modules manually, and copy RDAnalyzer in the directory that same with trajectory files.
-
-**or**
+You can install these modules manually, and copy RDAnalyzer in the directory that same with trajectory files. Or
 
 **Install with pip**
 
