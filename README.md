@@ -22,4 +22,4 @@ You can install these modules manually, and copy RDAnalyzer in the directory tha
 ```pip install RDAnalyzer```
 
 ## Cite
-L. Ma, T. Wang, Angew. Chem. Int. Ed. 2024, 63, e202403614. https://doi.org/10.1002/anie.202403614
+L. Ma, T. Wang, *Angew. Chem. Int. Ed.* 2024, 63, e202403614. https://doi.org/10.1002/anie.202403614
